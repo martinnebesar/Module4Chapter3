@@ -1,0 +1,11 @@
+C:\Martin\Module 4\ConsoleApplication2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+C:\Martin\Module 4\ConsoleApplication2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+C:\Martin\Module 4\ConsoleApplication2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Martin\Module 4\ConsoleApplication2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Martin\Module 4\ConsoleApplication2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Martin\Module 4\ConsoleApplication2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Martin\Module 4\ConsoleApplication2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Martin\Module 4\ConsoleApplication2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Martin\Module 4\ConsoleApplication2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+C:\Martin\Module 4\ConsoleApplication2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Martin\Module 4\ConsoleApplication2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
